@@ -1,0 +1,216 @@
+
+        home:Rennes, 雷恩
+        away:Lazio,   拉齐奥
+        advice:Double chance :  draws or Lazio,
+        home_win:10%,
+        draws:45%,
+        away_win:45%
+    
+------------------
+
+        home:CFR 1907 Cluj,  克鲁日
+        away:Celtic,  凯尔特人
+        advice:Double chance :  draws or Celtic,
+        home_win:10%,
+        draws:45%,
+        away_win:45%
+    
+------------------
+
+        home:Eintracht Frankfurt,  法兰克福
+        away:Guimaraes,  吉马良斯
+        advice:Double chance : Eintracht Frankfurt or draws,
+        home_win:45%,
+        draws:45%,
+        away_win:10%
+    
+------------------
+
+        home:Standard Liege,  标准烈日
+        away:Arsenal,  阿森纳
+        advice:Double chance :  draws or Arsenal,
+        home_win:10%,
+        draws:45%,
+        away_win:45%
+    
+------------------
+
+        home:Apoel Nicosia,  希腊人
+        away:Sevilla,  塞维利亚
+        advice:Combo Winner : Sevilla and +2.5 goals,
+        home_win:0%,
+        draws:50%,
+        away_win:50%
+    
+------------------
+
+        home:Qarabag,  卡拉巴克
+        away:F91 Dudelange,
+        advice:Combo Double chance : Qarabag or draws  and +1.5 goals,
+        home_win:45%,
+        draws:45%,
+        away_win:10%
+    
+------------------
+
+        home:Dynamo Kyiv, 基迪纳摩 
+        away:FC Lugano,    卢佳诺
+        advice:Combo Double chance : Dynamo Kyiv or draws  and -3.5 goals,
+        home_win:45%,
+        draws:45%,
+        away_win:10%
+    
+------------------
+
+        home:FC Copenhagen,  哥本哈根
+        away:Malmo FF,     马尔默
+        advice:Combo Double chance : FC Copenhagen or draws  and -3.5 goals,
+        home_win:45%,
+        draws:45%,
+        away_win:10%
+    
+------------------
+
+        home:FC Basel 1893,   巴塞尔
+        away:Trabzonspor,    特拉布宗
+        advice:Winner : FC Basel 1893,
+        home_win:45%,
+        draws:45%,
+        away_win:10%
+    
+------------------
+
+        home:Getafe,  赫塔菲
+        away:Krasnodar,  克拉斯诺达尔
+        advice:Double chance : Getafe or draws,
+        home_win:45%,
+        draws:45%,
+        away_win:10%
+    
+------------------
+
+        home:PSV Eindhoven,   埃因霍温
+        away:Rosenborg,    罗森博格
+        advice:Double chance : PSV Eindhoven or draws,
+        home_win:45%,
+        draws:45%,
+        away_win:10%
+    
+------------------
+
+        home:Lask Linz,   林茨
+        away:Sporting CP,  里斯本竞技
+        advice:Double chance :  draws or Sporting CP,
+        home_win:10%,
+        draws:45%,
+        away_win:45%
+    
+------------------
+
+        home:FC Porto,  波尔图
+        away:Feyenoord,   费耶诺德
+        advice:Double chance :  draws or Feyenoord,
+        home_win:10%,
+        draws:45%,
+        away_win:45%
+    
+------------------
+
+        home:Rangers,   流浪者
+        away:BSC Young Boys,  年轻人
+        advice:Double chance :  draws or BSC Young Boys,
+        home_win:10%,
+        draws:45%,
+        away_win:45%
+    
+------------------
+
+        home:VfL Wolfsburg,   沃尔夫斯堡
+        away:Saint Etienne,  圣艾蒂安
+        advice:Combo Double chance : VfL Wolfsburg or draws  and +1.5 goals,
+        home_win:45%,
+        draws:45%,
+        away_win:10%
+    
+------------------
+
+        home:Gent,  根特
+        away:Oleksandria,
+        advice:Double chance : Gent or draws,
+        home_win:45%,
+        draws:45%,
+        away_win:10%
+    
+------------------
+
+        home:Ludogorets,    卢多格雷茨
+        away:Ferencvarosi TC,    费伦茨瓦罗斯
+        advice:Double chance : Ludogorets or draws,
+        home_win:35%,
+        draws:35%,
+        away_win:30%
+    
+------------------
+
+        home:Espanyol,  西班牙人
+        away:CSKA Moscow,  莫斯科陆军
+        advice:Winner : Espanyol,
+        home_win:50%,
+        draws:50%,
+        away_win:0%
+    
+------------------
+
+        home:AS Roma,  罗马
+        away:Wolfsberger AC,    沃尔夫斯
+        advice:Double chance : AS Roma or draws,
+        home_win:45%,
+        draws:45%,
+        away_win:10%
+    
+------------------
+
+        home:Borussia Monchengladbach,  门兴
+        away:Istanbul Basaksehir,  伊斯坦布
+        advice:Double chance :  draws or Istanbul Basaksehir,
+        home_win:10%,
+        draws:45%,
+        away_win:45%
+    
+------------------
+
+        home:Wolves,  狼队
+        away:Besiktas, 北西克塔斯
+        advice:Winner : Wolves,
+        home_win:45%,
+        draws:45%,
+        away_win:10%
+    
+------------------
+
+        home:Slovan Bratislava,   布拉迪斯拉发
+        away:SC Braga,  布拉加
+        advice:Double chance :  draws or SC Braga,
+        home_win:10%,
+        draws:45%,
+        away_win:45%
+    
+------------------
+
+        home:Manchester United,  曼联
+        away:AZ Alkmaar,
+        advice:Double chance : Manchester United or draws,
+        home_win:45%,
+        draws:45%,
+        away_win:10%
+    
+------------------
+
+        home:FK Partizan, 游击队
+        away:FC Astana,   阿斯坦纳
+        advice:Double chance : FK Partizan or draws,
+        home_win:50%,
+        draws:50%,
+        away_win:0%
+    
+------------------

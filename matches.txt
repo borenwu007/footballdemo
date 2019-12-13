@@ -1,0 +1,24 @@
+240975--Rennes : Lazio
+240976--CFR 1907 Cluj : Celtic
+240977--Eintracht Frankfurt : Guimaraes
+240978--Standard Liege : Arsenal
+240979--Apoel Nicosia : Sevilla
+240980--Qarabag : F91 Dudelange
+240981--Dynamo Kyiv : FC Lugano
+240982--FC Copenhagen : Malmo FF
+240983--FC Basel 1893 : Trabzonspor
+240984--Getafe : Krasnodar
+240985--PSV Eindhoven : Rosenborg
+240986--Lask Linz : Sporting CP
+240987--FC Porto : Feyenoord
+240988--Rangers : BSC Young Boys
+240989--VfL Wolfsburg : Saint Etienne
+240990--Gent : Oleksandria
+240991--Ludogorets : Ferencvarosi TC
+240992--Espanyol : CSKA Moscow
+240993--AS Roma : Wolfsberger AC
+240994--Borussia Monchengladbach : Istanbul Basaksehir
+240995--Wolves : Besiktas
+240996--Slovan Bratislava : SC Braga
+240997--Manchester United : AZ Alkmaar
+240998--FK Partizan : FC Astana
